@@ -93,7 +93,7 @@
 </p>  
 
 <div align="center">
-  <a href="build-your-own-openwrt-image" target="_blank">
+  <a href="build-your-own-openwrt-image">
     <img src="images/round_logo_open_wrt.png" alt="Logo" width="300" height="150">
   <div align="center">
       ...build your own OpenWRT image from scratch in a <b>few minutes</b>!</a>.</b>
