@@ -95,7 +95,7 @@
 </p>  
 
 <div align="center">
-  <a href="https://drive.google.com/drive/folders/1pREPO48vvCrU5cWm2z4bHnBf_eGFIXJ8?usp=drive_link" target="_blank">
+  <a href="#build-your-own-openwrt-image" target="_blank">
     <img src="images/round_logo_open_wrt.png" alt="Logo" width="300" height="150">
   <div align="center">
       ...build your own OpenWRT image from scratch in a <b>few minutes</b>!</a>.</b>
