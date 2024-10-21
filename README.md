@@ -51,9 +51,9 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#build-your-own-openwrt-image">Build StarlinuX for your OS</a></li>
-        <li><a href="#build-your-own-openwrt-image">Start from a pre-built RaspAP image</a></li>        
-        <li><a href="#build-your-own-openwrt-image">Start from a pre-built OpenWRT image</a></li>
+        <li><a href="#install-starlinux">Install StarlinuX</a></li>
+        <li><a href="#start-from-a-pre-built-raspap-image">Start from a pre-built RaspAP image</a></li>        
+        <li><a href="#start-from-a-pre-built-openwrt-image">Start from a pre-built OpenWRT image</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -167,7 +167,11 @@ This project aims to replace the original Starlink router by utilizing a built-i
 </div>
 
 <!-- BUILD YOUR OWN IMAGE -->
-## Build your own OpenWRT image
+## Install Starlinux
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- BUILD YOUR OWN IMAGE -->
+## Start from a Pre-Built OpenWRT image
 <div align="left">
   <a href="https://github.com/github_username/repo_name">
     <img src="images/round_logo_open_wrt.png" alt="Logo" width="100" height="50">
@@ -232,6 +236,10 @@ ssh root@192.168.1.1 'ash -s' < Second.sh 2>&1 && bash Third.sh
   ```
 - Open the app, you're in!<br>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- BUILD YOUR OWN IMAGE -->
+## Start from a Pre-Built RaspAP image
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Prerequisites
