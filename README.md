@@ -95,13 +95,13 @@
 </p>  
 
 <div align="center">
-  <a href="#build-your-own-openwrt-image" target="_blank">
+  <a href="#start-from-a-openwrt-image" target="_blank">
     <img src="images/round_logo_open_wrt.png" alt="Logo" width="300" height="150">
   <div align="center">
       ...build your own OpenWRT image from scratch in a <b>few minutes</b>!</a>.</b>
   </div>    
     <p align="center">
-      <a href="#build-your-own-openwrt-image">Follow the instructions</a>
+      <a href="#start-from-a-openwrt-image">Follow the instructions</a>
     </p>
     <br>
   </a>
