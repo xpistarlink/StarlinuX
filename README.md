@@ -168,6 +168,7 @@ This project aims to replace the original Starlink router by utilizing a built-i
 
 <!-- BUILD YOUR OWN IMAGE -->
 ## Install Starlinux
+- Install the package:
 ```sh
 sudo apt install starlinux
 ```
