@@ -52,8 +52,8 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#build-your-own-openwrt-image">Build StarlinuX for your OS</a></li>
-        <li><a href="#build-your-own-openwrt-image">Build your own RaspAP image(Optional)</a></li>        
-        <li><a href="#build-your-own-openwrt-image">Build your own OpenWRT image(Optional)</a></li>
+        <li><a href="#build-your-own-openwrt-image">Build your own RaspAP image</a></li>        
+        <li><a href="#build-your-own-openwrt-image">Build your own OpenWRT image</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
