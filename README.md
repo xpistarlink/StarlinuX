@@ -169,11 +169,7 @@ This project aims to replace the original Starlink router by utilizing a built-i
 <!-- BUILD YOUR OWN IMAGE -->
 ## Installation
 If you'd like to install StarlinuX on your **laptop** or **workstation**, we provide a straightforward installation process that allows you to connect the Ethernet port directly to the Starlink dish, turning your computer into a temporary StarlinuX router.<br> 
-The installation automatically bridges your network card with a virtual one, which will act as a WAN port interface without affecting the original behavior of the Ethernet port.<br><br>
-
-By the way, if you aim to turn your computer into a standard StarlinuX router, we suggest following the original installation path to set up StarlinuX as the main operating system, leveraging OpenWRT or RaspAP. This option is always recommended if you own a single-board computer (SBC) like a Raspberry Pi.<br>
-As a matter of fact, the StarlinuX application only functions if StarlinuX is hosting a wireless access point.<br>
-
+The installation automatically bridges your network card with a virtual one, which will act as a WAN port interface without affecting the original behavior of the Ethernet port.<br>
 - Install the package:
 ```sh
 sudo apt install starlinux
@@ -187,6 +183,7 @@ starlinux start
 starlinux stop
 ```
 
+If you aim to turn your computer into a standard StarlinuX router, we suggest following the original installation path to set up StarlinuX as the main operating system, leveraging OpenWRT or RaspAP. This option is always recommended if you own a single-board computer (SBC) like a Raspberry Pi.<br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- BUILD YOUR OWN IMAGE -->
