@@ -174,6 +174,10 @@ The installation automatically bridges your network card with a virtual one, whi
 ```sh
 sudo apt install starlinux
 ```
+- Build the StarlinuX image for your machine:
+```sh
+starlinux build
+```
 - Run StarlinuX:
 ```sh
 starlinux start
