@@ -42,11 +42,14 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#whats-starlinux">What's StarlinuX</a>
+      <a href="#whats-starlinux">What's StarlinuX</a><br>
       <ul>
         <li><a href="#screenshots">Screenshots</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#whats-starlinux">What's StarlinuX-Emulator</a><br>
+    </li>    
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -139,6 +142,10 @@ people to you want to reach your game server, or your web page! We tried to rais
 One of the main goals of this project is power saving, because StarlinuX replaced the original Starlink router, which has a higher power consumption compared to most of the low-cost <b>Single Board Computer</b> we’re working with.
 As a matter of fact, most of the Starlink vanlifer users might be interested in this project as the power is a critical point they used to facing every day when they travel, and that’s now something very reachable.
 Just buy the PoE(Power over Ethernet) which powers up all your items from 12v avoiding any A.C inverter.<br>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## What's StarlinuX-Emulator?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
