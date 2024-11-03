@@ -147,7 +147,8 @@ Just buy the PoE(Power over Ethernet) which powers up all your items from 12v av
 
 ## What's StarlinuX-Emulator?
 
-StarlinuX-Emulator offers an efficient way to run a lightweight version of StarlinuX on your device. If you're using a laptop with a Debian-based distribution, you can easily set up StarlinuX-Emulator to temporarily transform your computer into a fully functional StarlinuX router. The StarlinuX application manages all network functions seamlessly, simulating the experience of using the original StarlinuX device. <br>
+If you're using a laptop with a Debian-based distribution, you can easily set up StarlinuX-Emulator to temporarily transform your computer into a fully functional StarlinuX router as StarlinuX-Emulator offers an efficient way to run a lightweight version of StarlinuX on your device.<br>
+The StarlinuX application manages all network functions seamlessly, simulating the experience of using the original StarlinuX device. <br>
 Powered by QEMU, the emulator requires certain dependencies. However, our installer simplifies the process, guiding you through setup so you can get everything installed in one go, hassle-free.<br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
